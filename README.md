@@ -17,7 +17,7 @@ Lastly, if your project is deployed, include a link to the deployed application 
 ## Corrections
 1. Original Line 7 on the index.html: ```<title>Website</title>```  
  Correction:  ```<title>Horiseon Social Solution Services</title>```
--   Explaination: For instant, people who have multiple tabs open can easily identify which tab is which website. 
+-   Explaination: One of good reasons to have a proper title for the website is that people who have multiple tabs open can easily identify which tab is which website. 
  
 
 2. Original: ```<li>Search Engine Optimization</li>```   
@@ -28,6 +28,13 @@ Lastly, if your project is deployed, include a link to the deployed application 
  Correction: ``` <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Notebook Image"/> ```
  - Explaination: alt="" attribute was added to all images which make the website more accessible. Above codeblock is one of the examples. 
 
+ 4. Original: ```.benefits {background-color: #2589bd;}```   
+ Correction: ```.benefits {background-color: #0072bb;} ```
+ - Explaination: Unless it's intentional, having consistent color scheme would make a website look more professional. 
+
+ 5. Correction: Added universal font-family onto the css style sheet.
+ - Explaination: Unless it's intentional, having consistent font would make a website look more professional. 
+
 
 ## Installation
 
@@ -36,27 +43,17 @@ No other installation required.
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+Not applicable 
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+*UCB Bootcamp March 2022 Cohort*
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+Not applicable
 
 
 ---
