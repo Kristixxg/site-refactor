@@ -20,26 +20,26 @@ https://kristixxg.github.io/site-refactor/.
  Correction: Replaced ```<div>``` with semantic element like ```<header>``` or ```<footer>```.
 - Explaination: There are semantic elements that can be used to define parts of a web page. 
 
-1. Original: ```<li>Search Engine Optimization</li>```   
+2. Original: ```<li>Search Engine Optimization</li>```   
  Correction: ``` <li><a href="#search-engine-optimization">Search Engine Optimization</a></li> ```
  - Explaination: An anchor tag and a href were added so the listed item is linked with the same exact id. 
 
- 2. Original: ```.benefits {background-color: #2589bd;}```   
+ 3. Original: ```.benefits {background-color: #2589bd;}```   
  Correction: ```.benefits {background-color: #0072bb;} ```
  - Explaination: Unless it's intentional, having consistent color scheme would make a website look more professional. 
 
- 3. Correction: Added universal font-family onto the css style sheet.
+ 4. Correction: Added universal font-family onto the css style sheet.
  - Explaination: Unless it's intentional, having consistent font would make a website look more professional. 
 
- 4. Original: ```<img src="./assets/images/search-engine-optimization.jpg" class="float-left"/>```   
+ 5. Original: ```<img src="./assets/images/search-engine-optimization.jpg" class="float-left"/>```   
  Correction: ``` <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Notebook Image"/> ```
  - Explaination: alt="" attribute was added to all images which make the website more accessible. Above codeblock is one of the examples. 
 
- 5. Original: ``` <h2>Made with ❤️️ by Horiseon</h2>```   
+ 6. Original: ``` <h2>Made with ❤️️ by Horiseon</h2>```   
  Correction: ``` <h4>Made with ❤️️ by Horiseon</h4>```
  - Explaination: Heading attributes should in sequential order. 
 
- 6. Original: Line 7 on the index.html: ```<title>Website</title>```  
+ 7. Original: Line 7 on the index.html: ```<title>Website</title>```  
  Correction:  ```<title>Horiseon Social Solution Services</title>```
 -   Explaination: One of good reasons to have a proper title for the website is that people who have multiple tabs open can easily identify which tab is which website. 
 
