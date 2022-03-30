@@ -51,7 +51,7 @@ No other installation required.
 
 ## Usage 
 
-Not applicable 
+![screenshot of web](./assets/images/Screen%20Shot%202022-03-30%20at%202.53.23%20PM.png)
 
 
 ## Credits
